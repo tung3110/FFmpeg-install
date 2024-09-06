@@ -6,6 +6,8 @@ wget https://schedule.truyenthanhso.vn/VsClient/ffmpeg.zip
 
 unzip ffmpeg.zip
 
+cd ffmpeg
+
 cp libffmpeg/libcrystalhd.so.3  /usr/lib/x86_64-linux-gnu/libcrystalhd.so.3
 
 cp libffmpeg/libx264.so.155  /usr/lib/x86_64-linux-gnu/libx264.so.155
