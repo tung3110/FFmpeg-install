@@ -14,8 +14,8 @@ cp libffmpeg/libx264.so.155  /usr/lib/x86_64-linux-gnu/libx264.so.155
 
 cp libffmpeg/libx264.so  /usr/lib/x86_64-linux-gnu/libx264.so.155
 
-cp ffmpeg /usr/bin/ffmpeg
+cp ffmpeg /usr/bin
 
-cp ffplay /usr/bin/ffmpeg
+cp ffplay /usr/bin
 
-cp ffprobe /usr/bin/ffprobe
+cp ffprobe /usr/bin
