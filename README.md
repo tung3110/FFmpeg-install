@@ -1,7 +1,8 @@
 1. Install:
+   
    apt -y update && apt -y install git && git clone https://github.com/tung3110/FFmpeg-install.git && bash ./FFmpeg-install/install.sh
 
-2. Test thu:
+3. Test thu:
    
 wget https://schedule.truyenthanhso.vn/VsClient/test.mp4
 
