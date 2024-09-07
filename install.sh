@@ -2,7 +2,7 @@
 
 apt -y update && apt -y upgrade && apt -y install  libsdl2-dev libva-dev ffmpeg libavformat-dev libavcodec-dev libswscale-dev zip wget
 
-wget https://schedule.truyenthanhso.vn/VsClient/ffmpeg.zip
+#wget https://schedule.truyenthanhso.vn/VsClient/ffmpeg.zip
 
 unzip ffmpeg.zip
 
