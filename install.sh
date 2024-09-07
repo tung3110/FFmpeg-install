@@ -2,6 +2,8 @@
 
 apt -y update && apt -y upgrade && apt -y install  libsdl2-dev libva-dev ffmpeg libavformat-dev libavcodec-dev libswscale-dev zip wget
 
+cd FFmpeg-install
+
 unzip ffmpeg.zip
 
 cd ffmpeg
