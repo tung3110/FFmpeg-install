@@ -20,6 +20,10 @@ cp libffmpeg/libsrt.so.1  /usr/lib/x86_64-linux-gnu/libsrt.so.1
 
 cp libffmpeg/libsrt.so.1.4.0  /usr/lib/x86_64-linux-gnu/libsrt.so.1.4.0
 
+cp libffmpeg/libcrypto.so.1.1 /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1
+
+cp libffmpeg/libcrypto.so /usr/lib/x86_64-linux-gnu/libcrypto.so
+
 cp ffmpeg /usr/bin
 
 cp ffplay /usr/bin
